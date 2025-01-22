@@ -1,0 +1,13 @@
+﻿{
+  "Name": "abc123 - Notepad",
+  "Type": "Screen",
+  "Id": "0CAhqEkYNUuwfMQ9u64iHw",
+  "Reference": "qJ2Q77ZDVk6pjWdoT2DT2Q/0CAhqEkYNUuwfMQ9u64iHw",
+  "ParentRef": "qJ2Q77ZDVk6pjWdoT2DT2Q/D1muMokWJ0KCY0Ns4nqeAQ",
+  "Created": "2025-01-22T05:49:40.8987197Z",
+  "Updated": "2025-01-22T05:49:40.8987197Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Login(3)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "-BKld3t6-EG_ibR4VAd9Kw",
+  "Reference": "qJ2Q77ZDVk6pjWdoT2DT2Q/-BKld3t6-EG_ibR4VAd9Kw",
+  "ParentRef": "qJ2Q77ZDVk6pjWdoT2DT2Q/FBVq5ASjd0q08OiLtX9URw",
+  "Created": "2025-01-21T07:24:22.5300685Z",
+  "Updated": "2025-01-21T07:24:22.5300685Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome UiPath automation platform drive AI tr",
+  "Type": "Screen",
+  "Id": "jzjK4bC1NEK1ew5cw1sulg",
+  "Reference": "qJ2Q77ZDVk6pjWdoT2DT2Q/jzjK4bC1NEK1ew5cw1sulg",
+  "ParentRef": "qJ2Q77ZDVk6pjWdoT2DT2Q/KVIWrW1pI0qMjMRudlLkjw",
+  "Created": "2025-01-22T05:20:01.5942771Z",
+  "Updated": "2025-01-22T05:20:01.5942771Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

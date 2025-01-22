@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X41hN3qWzE6PKX2cbHOsLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="c72f1e47-8687-4dde-b060-9ee841a6f8d5" CvTextArea="104, 281, 130, 57" CvType="AnyWordGroup" DesignTimeRectangle="104, 276, 1710, 74" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' /&gt;" Guid="ee4ffa39-3563-4056-a5f6-bed7e97565bf" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="30f0618aa01f5826dad0e3610ea5ea06.png" xmlns="">07dRj19IEk02K2vHHAcQXwQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

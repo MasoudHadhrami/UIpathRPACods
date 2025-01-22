@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yYYoO9ZN-kmaJuRaU_PPRg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="2224a8bd-0c44-419b-b18c-d14eec67deb5" CvElementArea="206, 832, 93, 53" CvTextArea="225, 848, 54, 24" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="209, 833, 89, 50" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' check:innerText='Login' /&gt;" Guid="c46d4ec1-1d4b-48d9-9e83-167008142089" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2224a8bd-0c44-419b-b18c-d14eec67deb5" CvTextArea="233, 777, 145, 19" CvTextArgument="Remember Me" CvType="Text" DesignTimeRectangle="234, 773, 143, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='form-check-label' tag='LABEL' type='' aaname='                                         Remember Me                                     ' check:innerText='Remember Me' /&gt;" Guid="2fff25e4-0859-4450-b188-7fa458f6d73b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="522cb5541720f5e61bb17f86b0bafb43.png" xmlns="">0jcU1bZ7P3ESqS3bhGYnAWA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

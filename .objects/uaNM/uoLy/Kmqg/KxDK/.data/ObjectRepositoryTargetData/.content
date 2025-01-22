@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="h94h478QsU23lCXI-C_4CQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="522, 450, 225, 225" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl tag='CANVAS' type='' class='uH7m8c' aaname='' /&gt;" Guid="6e440678-a288-4515-8d1e-363755482b1d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='flip a coin - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="309c4fc7-42d5-4485-8aaa-37a52c1274ea" CvTextArea="599, 683, 70, 22" CvTextArgument="Heads" CvType="Text" DesignTimeRectangle="147, 675, 976, 66" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='PmF7Ce' aaname='Heads' check:innerText='Heads' /&gt;" Guid="9405b88e-bb46-4493-9059-0b26d7d396e8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dde94fce9f58280fc8a5e0facef430cd.png" xmlns="">06A0pF-NI-UGIVS-TEksj1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

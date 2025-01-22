@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AK5xdSgRf0mgJsg_zHzuRA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="309c4fc7-42d5-4485-8aaa-37a52c1274ea" CvTextArea="576, 746, 115, 19" CvTextArgument="FLIP AGAIN" CvType="Text" DesignTimeRectangle="147, 720, 976, 72" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Flip Again' aria-role='button' class='kIGsIe' parentid='RqkVPd' tag='DIV' type='' check:innerText='FLIP AGAIN' /&gt;" Guid="c8027692-d050-4f2b-9d0a-233f4db45b50" ScopeSelectorArgument="&lt;html app='chrome.exe' title='flip a coin - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="309c4fc7-42d5-4485-8aaa-37a52c1274ea" CvTextArea="576, 746, 115, 19" CvTextArgument="FLIP AGAIN" CvType="Text" DesignTimeRectangle="576, 745, 115, 19" ElementType="Text" Guid="9d46a82d-6c78-4216-9e7f-5d2ac5f78631" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d06a27e884b0e53576f42e7b5c24fc0b.png" xmlns="">0zxPVyaTvOkC00sQgcvPi5Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

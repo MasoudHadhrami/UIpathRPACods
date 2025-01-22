@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wOBldg7X1E-yB5PhTN32JA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="c0ec69db-3b66-4aab-a454-8fa2b7a3edd0" CvTextArea="16, 51, 30, 18" CvTextArgument="File" CvType="Text" DesignTimeRectangle="11, 45, 40, 29" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;ctrl automationid='MenuBar' name='Application' role='menu bar' /&gt;&lt;ctrl name='File' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='MenuBar' name='Application' role='menu bar' /&gt;&lt;ctrl name='File' role='menu item' automationid='' check:text='File' /&gt;" Guid="dbad8128-9f22-4f52-9016-ea9f96416f7e" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='*Day3 - Notepad' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="198c1c65ac84fefe75d873a035939af4.png" xmlns="">0A0R6X7n-JkaIFJw6h6WWog</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
